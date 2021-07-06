@@ -4,7 +4,7 @@
 
 > This is an example of dev and commit using GitHub and Visual Studio.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./hellomicroverse.png)
 
 This project was made using Visual Studio and Github bash functionalities.
 
