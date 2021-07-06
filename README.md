@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
 > One paragraph statement about the project.
 
@@ -45,9 +45,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Leonardoeng13](https://github.com/Leonardoeng13)
+- Twitter: [@Leo de Andrade](https://twitter.com/andrade_leo)
+- LinkedIn: [Leonardo de Andrade](https://linkedin.com/in/leonardodeandrade)
 
 👤 **Author2**
 
