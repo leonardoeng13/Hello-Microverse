@@ -1,0 +1,9 @@
+.hello{
+    display:flex;
+    flex-wrap: wrap;
+    font-size: 40px;
+    padding: 20px;
+    text-align: center;
+    font-family: arial;
+    color: blue;
+}
